@@ -1,0 +1,10 @@
+step:
+
+1. open phpmyadmin in your browser and create a database as "nasa" then select nasa and select import option then click on browse option then select file .../database/nasa(1).sql then click on go.
+
+2. copy complete doctor folder to the "www" folder.
+
+3. open browser then in URL- "localhost/doctor/HomePage.php"
+
+4. Work on it..!!
+
